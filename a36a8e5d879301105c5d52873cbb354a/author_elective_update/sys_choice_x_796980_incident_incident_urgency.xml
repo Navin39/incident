@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="urgency" table="x_796980_incident_incident" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>urgency</element>
+            <name>x_796980_incident_incident</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-05 16:49:37</sys_created_on>
+            <sys_id>bd30d215875701105c5d52873cbb3519</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>urgency</sys_name>
+            <sys_package display_value="Incident Management System" source="x_796980_incident">a36a8e5d879301105c5d52873cbb354a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Incident Management System">a36a8e5d879301105c5d52873cbb354a</sys_scope>
+            <sys_update_name>sys_choice_x_796980_incident_incident_urgency</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-05 16:49:37</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>urgency</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1-High</label>
+            <language>en</language>
+            <name>x_796980_incident_incident</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-05 16:49:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3930d215875701105c5d52873cbb3519</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-05 16:49:37</sys_updated_on>
+            <value>1_high</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>urgency</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2-Medium</label>
+            <language>en</language>
+            <name>x_796980_incident_incident</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-05 16:49:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7530d215875701105c5d52873cbb351c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-05 16:49:37</sys_updated_on>
+            <value>2_medium</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>urgency</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3-Low</label>
+            <language>en</language>
+            <name>x_796980_incident_incident</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-05 16:49:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f930d215875701105c5d52873cbb351e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-05 16:49:37</sys_updated_on>
+            <value>3_low</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
